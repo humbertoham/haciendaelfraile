@@ -1,4 +1,4 @@
-import Rules from "@/components/Rules";
+import Rules from "@/components/rules";
 import Navbar from "@/components/navbar";
 import Image from "next/image";
 

@@ -158,7 +158,7 @@ const HaciendaElFraile = () => {
           <section>
             <h2 className="text-3xl font-semibold text-gray-900 mb-4">Forma de Pago</h2>
             <p className="mb-2">
-              Para reservar, se solicita un anticipo de $2,000 MXN por depósito o transferencia bancaria. El
+              Para reservar, se solicita un anticipo de $3,000 MXN por depósito o transferencia bancaria. El
               resto se paga en efectivo al llegar a la propiedad. En caso de cancelación, no hay reembolso.
             </p>
             <p>Contrato, inventario y reglamento deben firmarse antes de ingresar a la propiedad.</p>

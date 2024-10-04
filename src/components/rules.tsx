@@ -17,7 +17,7 @@ const Rules = () => {
         1. Requisitos para rentar
         </p>
         <p className="hero__sub">
-        • Para separar se realiza un anticipo de $3,000 MXN.
+        • Para reservar se realiza un anticipo de $3,000 MXN.
         </p>
         <p className="hero__sub">
         • Después del anticipo, es necesario enviar comprobante de pago, INE (vigente) por ambos lados.

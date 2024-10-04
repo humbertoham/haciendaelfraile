@@ -22,10 +22,10 @@ const SearchPropertiesSection = () => {
             Conoce Hacienda El Fraile
           </h2>
           <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
-            Hacienda El Fraile es una joya oculta en el corazón de la naturaleza, rodeada de paisajes impresionantes y la serenidad del Río Ramos. Con más de 50 años de historia, esta hacienda ha sido cuidadosamente restaurada para ofrecer una experiencia única de lujo y confort, sin perder su esencia tradicional. Contamos con instalaciones modernas en armonía con el entorno natural, ofreciendo el lugar perfecto para eventos sociales, reuniones familiares o una escapada relajante, incluyendo una alberca amplia, áreas sociales, asadores y habitaciones diseñadas para el descanso total. En Hacienda El Fraile, cada detalle ha sido pensado para que vivas una experiencia inolvidable, ya sea que busques un espacio para celebrar con tus seres queridos o disfrutar de un fin de semana en la naturaleza. Te ofrecemos un ambiente acogedor y servicios de primer nivel.
+            Hacienda El Fraile es un refugio en la naturaleza, rodeada de paisajes impresionantes y la serenidad del Río Ramos. Con más de 50 años de historia, ofrece instalaciones modernas para eventos sociales, reuniones familiares o escapadas relajantes, incluyendo alberca, áreas sociales y habitaciones diseñadas para tu descanso. Te invitamos a vivir una experiencia única y acogedora.
           </p>
           <a href="/hacienda" className="inline-block button text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition duration-300 ease-in-out">
-            Ver más sobre Hacienda El Fraile
+            Ver más información
           </a>
         </div>
       </div>

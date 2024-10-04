@@ -8,7 +8,7 @@ const SearchPropertiesSection = () => {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/rio.jpg" // Cambia la ruta de la imagen según corresponda
-          alt="Fondo de Búsqueda de Propiedades"
+          alt="Fondo de Hacienda El Fraile"
           layout="fill"
           objectFit="cover"
           className="opacity-50"
@@ -19,13 +19,13 @@ const SearchPropertiesSection = () => {
         {/* Título y Descripción */}
         <div className="mb-12 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Encuentra Tu Propiedad Ideal
+            Conoce Hacienda El Fraile
           </h2>
           <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
-            ¿Estás listo para encontrar la casa de tus sueños? Nuestro amplio inventario de propiedades está diseñado para satisfacer tus necesidades y superar tus expectativas. Utiliza nuestro buscador para explorar una variedad de opciones y dar el primer paso hacia tu nuevo hogar.
+            Hacienda El Fraile es una joya oculta en el corazón de la naturaleza, rodeada de paisajes impresionantes y la serenidad del Río Ramos. Con más de 50 años de historia, esta hacienda ha sido cuidadosamente restaurada para ofrecer una experiencia única de lujo y confort, sin perder su esencia tradicional. Contamos con instalaciones modernas en armonía con el entorno natural, ofreciendo el lugar perfecto para eventos sociales, reuniones familiares o una escapada relajante, incluyendo una alberca amplia, áreas sociales, asadores y habitaciones diseñadas para el descanso total. En Hacienda El Fraile, cada detalle ha sido pensado para que vivas una experiencia inolvidable, ya sea que busques un espacio para celebrar con tus seres queridos o disfrutar de un fin de semana en la naturaleza. Te ofrecemos un ambiente acogedor y servicios de primer nivel.
           </p>
-          <a href="/hacienda" className="inline-block button text-white font-semibold py-3 px-6 rounded-lg shadow-lg  transition duration-300 ease-in-out">
-            Ver más información
+          <a href="/hacienda" className="inline-block button text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition duration-300 ease-in-out">
+            Ver más sobre Hacienda El Fraile
           </a>
         </div>
       </div>

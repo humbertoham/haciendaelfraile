@@ -7,9 +7,9 @@ const Rules = () => {
 
     return(
          <div className="hero">
-    <div className="flex-1 pt-36 pb-16 padding-x">
+    <div className="flex-1 pt-14 pb-5 m-5 padding-x">
         <h1 className="hero__title">
-        Reglamento general
+        Reglamento
         </h1>
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         

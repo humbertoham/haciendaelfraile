@@ -7,7 +7,10 @@
 }
 
 
-
+.nav{
+  height: auto !important;
+  padding-bottom: 3rem;
+}
 
 .navt:hover{
   background-color: #F8B500;
@@ -32,9 +35,16 @@
   background-color: #F8B500;
   color: white;
 }
-
+.button{
+  background-color: #F8B500;
+}
+.button:hover{
+  background-color: #be8d07;
+}
 .hero {
   @apply flex xl:flex-row flex-col gap-5 relative z-0 max-w-[1440px] mx-auto;
+
+  z-index: -1;
 }
 
 .hero__title {

@@ -28,7 +28,7 @@ import {
   
   export default function Navbar() {
     return (
-      <Disclosure as="nav" className="">
+      <Disclosure as="nav" className="nav">
         {({ open }) => (
           <>
             <div className="mx-auto max-w-7xl px-2 md:px-6 lg:px-8">
